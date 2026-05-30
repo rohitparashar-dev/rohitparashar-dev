@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=ROHIT%20PARASHAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20•%20NestJS%20•%20PostgreSQL%20•%20Docker&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:2E1065,50:7C3AED,100:A855F7&text=ROHIT%20PARASHAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20•%20NestJS%20•%20PostgreSQL%20•%20Docker&descAlignY=60"/>
 </p>
 
 <h3 align="center">
 Building scalable backend systems and production-grade applications.
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;NestJS+%7C+PostgreSQL+%7C+Docker+%7C+AWS;Building+the+MADA+Platform;Learning+System+Design+and+Database+Internals" />
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Backend+Developer;NestJS+%7C+PostgreSQL+%7C+Docker+%7C+AWS;Building+the+MADA+Platform;Learning+System+Design+and+Database+Internals" />
 </p>
 
 ---
