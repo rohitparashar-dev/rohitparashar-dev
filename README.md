@@ -115,7 +115,7 @@ Analytics Platforms
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/rohitparashar-dev
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/rohit-parashar-b60519200/
 
 ---
 
