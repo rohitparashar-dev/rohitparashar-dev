@@ -20,7 +20,6 @@ Building scalable backend systems and production-grade applications.
   "role": "Backend Developer",
   "company": "SaveJobs Inc.",
   "location": "India",
-  "current_project": "MADA Platform",
   "specialization": [
     "NestJS",
     "PostgreSQL",
@@ -83,57 +82,6 @@ Analytics Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
 </p>
-
----
-
-## 🏗 Production Architecture
-
-```text
-Client
-   │
-   ▼
-NestJS API
-   │
-   ▼
-PostgreSQL
-   │
-   ├── Redis Cache
-   │
-   ├── AWS S3
-   │
-   └── Firebase Notifications
-```
-
----
-
-## 🚢 MADA Platform
-
-```text
-Ship
- └── Work Order Package (WOP)
-      └── Work Order (WO)
-           └── Work
-```
-
-### Key Features
-
-✅ Workforce Management
-
-✅ Budget Management
-
-✅ Contractor Workflows
-
-✅ Geofence Attendance
-
-✅ Work Scheduling
-
-✅ Analytics
-
-✅ AI Risk Assessment
-
-✅ Push Notifications
-
----
 
 ## 📈 GitHub Statistics
 
