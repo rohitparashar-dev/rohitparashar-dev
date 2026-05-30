@@ -35,7 +35,6 @@ Building scalable backend systems and production-grade applications.
 ## 🚀 About Me
 
 - Backend Developer at **SaveJobs Inc.**
-- Working on a production workforce management platform (**MADA**)
 - Building APIs using **NestJS + PostgreSQL**
 - Interested in **System Design**, **Database Internals**, and **Scalable Architectures**
 - Currently learning advanced PostgreSQL and distributed systems
