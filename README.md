@@ -2,29 +2,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=ROHIT%20PARASHAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20•%20NestJS%20•%20PostgreSQL&descAlignY=60"/>
 </p>
 
-# 👋 Hi, I'm Rohit Parashar
-
-### Backend Developer | NestJS | PostgreSQL | Docker | AWS
-
 Building scalable backend systems and workforce management platforms.
 
 ---
 
 ## 🚀 About Me
 
+## 🖥️ profile.json
+
 ```json
 {
+  "name": "Rohit Parashar",
   "role": "Backend Developer",
   "company": "SaveJobs Inc.",
-  "currentProject": "MADA Platform",
-  "experience": "Production Backend Development",
-  "specialization": [
-    "NestJS",
-    "PostgreSQL",
-    "TypeORM",
-    "Docker",
-    "AWS"
-  ]
+  "focus": "Building Scalable Backend Systems",
+  "current_project": "MADA Platform"
 }
 ```
 
