@@ -1,12 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F172A,50:2563EB,100:06B6D4&text=ROHIT%20PARASHAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20•%20NestJS%20•%20PostgreSQL&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24&text=ROHIT%20PARASHAR&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20•%20NestJS%20•%20PostgreSQL%20•%20Docker&descAlignY=60"/>
 </p>
 
-Building scalable backend systems and workforce management platforms.
+<h3 align="center">
+Building scalable backend systems and production-grade applications.
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Backend+Developer;NestJS+%7C+PostgreSQL+%7C+Docker+%7C+AWS;Building+the+MADA+Platform;Learning+System+Design+and+Database+Internals" />
+</p>
 
 ---
-
-## 🚀 About Me
 
 ## 🖥️ profile.json
 
@@ -15,22 +19,42 @@ Building scalable backend systems and workforce management platforms.
   "name": "Rohit Parashar",
   "role": "Backend Developer",
   "company": "SaveJobs Inc.",
-  "focus": "Building Scalable Backend Systems",
-  "current_project": "MADA Platform"
+  "location": "India",
+  "current_project": "MADA Platform",
+  "specialization": [
+    "NestJS",
+    "PostgreSQL",
+    "TypeORM",
+    "Docker",
+    "AWS"
+  ]
 }
 ```
 
 ---
 
+## 🚀 About Me
+
+- Backend Developer at **SaveJobs Inc.**
+- Working on a production workforce management platform (**MADA**)
+- Building APIs using **NestJS + PostgreSQL**
+- Interested in **System Design**, **Database Internals**, and **Scalable Architectures**
+- Currently learning advanced PostgreSQL and distributed systems
+
+---
+
 ## 🔥 Current Focus
 
-- PostgreSQL Deep Dive
-- System Design
-- Docker
-- AWS
-- Geofencing
-- Backend Architecture
-- Performance Optimization
+```yaml
+Backend Architecture
+PostgreSQL Deep Dive
+System Design
+Docker
+AWS
+Performance Optimization
+Geofencing Systems
+Analytics Platforms
+```
 
 ---
 
@@ -38,19 +62,27 @@ Building scalable backend systems and workforce management platforms.
 
 ### Backend
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,ts" />
+</p>
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+</p>
 
-### DevOps
+### Cloud & DevOps
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,nginx" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase" />
+</p>
 
 ---
 
@@ -58,16 +90,18 @@ Building scalable backend systems and workforce management platforms.
 
 ```text
 Client
-   ↓
+   │
+   ▼
 NestJS API
-   ↓
+   │
+   ▼
 PostgreSQL
-   ↓
-Redis
-   ↓
-AWS S3
-   ↓
-Firebase
+   │
+   ├── Redis Cache
+   │
+   ├── AWS S3
+   │
+   └── Firebase Notifications
 ```
 
 ---
@@ -76,29 +110,69 @@ Firebase
 
 ```text
 Ship
- └── WOP
-      └── WO
+ └── Work Order Package (WOP)
+      └── Work Order (WO)
            └── Work
 ```
 
-Features:
+### Key Features
 
 ✅ Workforce Management
 
 ✅ Budget Management
 
+✅ Contractor Workflows
+
 ✅ Geofence Attendance
 
-✅ Contractor Workflow
+✅ Work Scheduling
 
 ✅ Analytics
 
 ✅ AI Risk Assessment
 
+✅ Push Notifications
+
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitparashar-dev&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rohitparashar-dev&show_icons=true&theme=tokyonight"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitparashar-dev&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohitparashar-dev&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohitparashar-dev&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+- PostgreSQL Internals
+- Query Optimization
+- Distributed Systems
+- Docker Networking
+- AWS Architecture
+- System Design
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/rohitparashar-dev
+- LinkedIn: Add your LinkedIn profile here
+
+---
+
+<p align="center">
+  <i>Code. Build. Improve. Repeat.</i>
+</p>
