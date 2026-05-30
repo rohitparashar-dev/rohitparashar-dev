@@ -116,6 +116,7 @@ Analytics Platforms
 
 - GitHub: https://github.com/rohitparashar-dev
 - LinkedIn: https://www.linkedin.com/in/rohit-parashar-b60519200/
+- Gmail: rohit.devhub@gmail.com
 
 ---
 
